@@ -1,0 +1,4 @@
+ - Learn new languages by jumping in and trying to build something with them. Trying to learn by reading through tutorials (without actually trying to build something in parallel) seems like a waste of time for most people.
+ - https://twitter.com/sebmarkbage/status/771209328619421697 > I'm trying a new technique while thinking. I write it out in words as a Q&A with myself. If I get distracted I can pick back up at the end.
+ - Timeboxing. Have a goal, set a timer. (I'll try to do this for 30 minutes; if I can't, try something else or ask for help.)
+ - Learning by typing things out verbatim. Many beginners working on an established project will create a new class / module by copying and pasting an old one and then modifying. By forcing yourself to type every class / module out by hand, you quickly become familiar with the anatomy of that thing.
